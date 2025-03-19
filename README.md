@@ -17,7 +17,7 @@
 
 ## Cómo contribuir
 
-¡Nos encantaría que nos ayudes a mejorar este proyecto! Aquí hay algunas formas en las que puedes contribuir:
+¡Me encantaría que me ayudes a mejorar esta practica! Aquí hay algunas formas en las que puedes contribuir:
 
 1. **Reportar errores**: Si encuentras algún problema, por favor abre un issue.
 2. **Proponer mejoras**: Si tienes ideas para nuevas funcionalidades o mejoras, no dudes en compartirlas.
