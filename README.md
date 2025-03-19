@@ -23,10 +23,6 @@
 2. **Proponer mejoras**: Si tienes ideas para nuevas funcionalidades o mejoras, no dudes en compartirlas.
 3. **Enviar código**: Realiza un fork del repositorio, haz tus cambios y envía un pull request.
 
-## Licencia
-
-Este proyecto está bajo la licencia MIT. ¡Siéntete libre de usarlo y mejorarlo!
-
 ---
 
 ¡Gracias por jugar y contribuir! 🎁
